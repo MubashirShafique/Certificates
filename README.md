@@ -35,4 +35,4 @@ This certification focuses on turning raw data into actionable insights and clea
 
 <img src="Translate Data into Insights.jpg" width="800" alt="Go Beyond the Numbers: Translate Data into Insights Certificate">
 
-[🔗 Verify Credential](https://coursera.org/verify/6SXVE1HUA53)
+[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/records/6SXVE1IHUA53)
