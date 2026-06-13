@@ -28,14 +28,11 @@ This certification was completed to **standardize my understanding** of the Data
 
 ---
 
-## Summary Table
+### 3. Go Beyond the Numbers: Translate Data into Insights
+**Authorized by:** Google | **Platform:** Coursera
 
-| Course Name | Platform | Goal | Verification Link |
-| :--- | :--- | :--- | :--- |
-| **Crash Course on Python** | Google / Coursera | Skill Validation & OOP Revision | [View Credential](https://coursera.org/verify/D7936XX9VBVB) |
-| **Foundations of Data Science** | Google / Coursera | Industry Standardization | [View Credential](https://coursera.org/verify/L43W8EA3EERY) |
+This certification focuses on turning raw data into actionable insights and clear visual stories. It helped me strengthen my ability to analyze complex datasets, create meaningful dashboards, and present data-driven findings effectively to support business decisions.
 
----
+<img src="Translate Data into Insights.jpg" width="800" alt="Go Beyond the Numbers: Translate Data into Insights Certificate">
 
-### Connect with me
-To see these skills in action, feel free to explore my **Projects Repository** or reach out for a technical discussion!
+[🔗 Verify Credential](https://coursera.org/verify/6SXVE1HUA53)
