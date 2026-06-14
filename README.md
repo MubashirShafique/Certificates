@@ -36,3 +36,14 @@ This certification focuses on turning raw data into actionable insights and clea
 <img src="Translate Data into Insights.jpg" width="800" alt="Go Beyond the Numbers: Translate Data into Insights Certificate">
 
 [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/records/6SXVE1IHUA53)
+
+---
+
+### 4. AI for Brainstorming and Planning
+**Authorized by:** Google | **Platform:** Coursera
+
+This certification focuses on leveraging Artificial Intelligence to enhance creative brainstorming and strategic planning processes. It helped me develop skills in utilizing AI tools to generate innovative ideas, streamline project workflows, and build effective, structured plans for complex projects.
+
+<img src="AI for Brainstorming and Planning.jpg" width="800" alt="AI for Brainstorming and Planning Certificate">
+
+[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/records/OJ680IC8Y4B2)
