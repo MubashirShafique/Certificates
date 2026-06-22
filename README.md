@@ -107,6 +107,6 @@ This certification focuses on using generative AI tools to streamline data workf
 
 This certification focuses on identifying professional workflow opportunities where custom AI solutions can solve specific workplace challenges. It covered constructing functional web applications using vibe coding techniques to translate natural language into working code, evaluating technical issues during app development using AI to diagnose/debug code, and practicing with advanced AI tools like AI Studio to build sophisticated and scalable custom solutions.
 
-<img src="image_8ccaef.jpg" width="800" alt="AI for App Building Certificate">
+<img src="AI for App Building.jpg" width="800" alt="AI for App Building Certificate">
 
 [🔗 Verify Credential](https://coursera.org/verify/CZBGT0AEAAQI)
