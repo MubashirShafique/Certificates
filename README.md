@@ -109,4 +109,4 @@ This certification focuses on identifying professional workflow opportunities wh
 
 <img src="image_8ccaef.jpg" width="800" alt="AI for App Building Certificate">
 
-[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/C7BGT0AFAAQI)
+[🔗 Verify Credential](https://coursera.org/verify/CZBGT0AEAAQI)
