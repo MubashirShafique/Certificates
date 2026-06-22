@@ -79,3 +79,13 @@ This certification focuses on leveraging generative AI to enhance professional c
 <img src="AI for Writing and Communicating.jpg" width="800" alt="The Power of Statistics Certificate">
 
 [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/8NHDPSETKY47)
+
+---
+### 8. AI for Content Creation
+**Authorized by:** Google | **Platform:** Coursera
+
+This certification focuses on exploring how generative AI tools can enhance content production and presentation workflows. It provided me with practical insights into generating high-quality visual assets from creative concepts using Gemini's image capabilities, as well as transforming generic slide decks into engaging, professional visual presentations within Google Slides.
+
+<img src="AI for Content Creation.jpg" width="800" alt="AI for Content Creation Certificate">
+
+[🔗 Verify Credential](https://www.coursera.org/verify/TDJRUYGZAJD)
