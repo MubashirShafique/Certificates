@@ -4,20 +4,7 @@ While I have already developed various projects, I believe in continuous learnin
 
 ---
 
-## Featured Certifications
-
-### 1. Crash Course on Python 
-**Authorized by:** Google | **Platform:** Coursera
-
-Having used Python in multiple projects, I took this course to **formally validate my expertise** and perform a deep-dive revision of Object-Oriented Programming (OOP). It helped me refine my coding practices and ensure my technical foundation is solid according to Google's standards.
-
-<img src="Google-Python-Crash-Course.jpg" width="800" alt="Google Python Crash Course Certificate">
-
-[🔗 Verify Credential](https://coursera.org/verify/D7936XX9VBVB)
-
----
-
-### 2. Foundations of Data Science 
+### 1. Foundations of Data Science 
 **Authorized by:** Google | **Platform:** Coursera
 
 This certification was completed to **standardize my understanding** of the Data Science lifecycle. Even with prior project experience, this course helped me bridge any theoretical gaps and formalize my approach toward data-driven decision-making and professional analytics.
@@ -28,85 +15,13 @@ This certification was completed to **standardize my understanding** of the Data
 
 ---
 
-### 3. Go Beyond the Numbers: Translate Data into Insights
+### 2. Google AI Professional Certificate
 **Authorized by:** Google | **Platform:** Coursera
 
-This certification focuses on turning raw data into actionable insights and clear visual stories. It helped me strengthen my ability to analyze complex datasets, create meaningful dashboards, and present data-driven findings effectively to support business decisions.
+This certification was completed to formalize my expertise in leveraging generative AI and prompt engineering. It validates my ability to responsibly apply AI tools across various domains, including advanced data analysis, workflow automation, and custom application development, ensuring a highly strategic and collaborative approach to modern AI technologies.
 
-<img src="Translate Data into Insights.jpg" width="800" alt="Go Beyond the Numbers: Translate Data into Insights Certificate">
+<img src="Google AI.jpg" width="800" alt="Google AI Professional Certificate">
 
-[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/records/6SXVE1IHUA53)
+[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/professional-cert/QDGS2Q65T0T0)
 
 ---
-
-### 4. AI for Brainstorming and Planning
-**Authorized by:** Google | **Platform:** Coursera
-
-This certification focuses on leveraging Artificial Intelligence to enhance creative brainstorming and strategic planning processes. It helped me develop skills in utilizing AI tools to generate innovative ideas, streamline project workflows, and build effective, structured plans for complex projects.
-
-<img src="AI for Brainstorming and Planning.jpg" width="800" alt="AI for Brainstorming and Planning Certificate">
-
-[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/records/OJ680IC8Y4B2)
-
----
-### 5. AI for Research and Insights
-**Authorized by:** Google | **Platform:** Coursera
-
-This certification focuses on leveraging Artificial Intelligence to accelerate research workflows and extract deep data insights. It helped me develop skills in synthesizing multimodal data sources using Gemini, constructing structured research hubs, and generating comprehensive summaries to drive data-informed decisions.
-
-<img src="AI for Research and Insights.jpg" width="800" alt="AI for Research and Insights Certificate">
-
-[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/MB62F8ZO65PQ)
-
----
-
-### 6. The Power of Statistics
-**Authorized by:** Google | **Platform:** Coursera
-
-This certification focuses on the foundational statistical principles underlying robust data analysis. It helped me strengthen my ability to explore and summarize complex datasets, apply probability distributions to model real-world data, and establish a mathematically sound basis for data-driven storytelling.
-
-<img src="The Power of Statistics.jpg" width="800" alt="The Power of Statistics Certificate">
-
-[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/5L0SN685816Q)
-
-
-----
-### 7. AI for Writing and Communicating
-**Authorized by:** Google | **Platform:** Coursera
-
-This certification focuses on leveraging generative AI to enhance professional communication and content creation. It helped me strengthen my ability to synthesize complex meeting transcripts, refine high-stakes professional documents, and use AI-driven tools like Gemini to draft clear, impactful, and audience-targeted summaries.
-
-<img src="AI for Writing and Communicating.jpg" width="800" alt="The Power of Statistics Certificate">
-
-[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/8NHDPSETKY47)
-
----
-### 8. AI for Content Creation
-**Authorized by:** Google | **Platform:** Coursera
-
-This certification focuses on exploring how generative AI tools can enhance content production and presentation workflows. It provided me with practical insights into generating high-quality visual assets from creative concepts using Gemini's image capabilities, as well as transforming generic slide decks into engaging, professional visual presentations within Google Slides.
-
-<img src="AI for Content Creation.jpg" width="800" alt="AI for Content Creation Certificate">
-
-[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/TDJRUYGZJAJD)
-
----
-
-### 9. AI for Data Analysis
-**Authorized by:** Google | **Platform:** Coursera
-
-This certification focuses on using generative AI tools to streamline data workflows. It covered identifying key success metrics, cleaning unstructured data with effective prompting, generating spreadsheet formulas via natural language, and building clear data visualizations using Gemini in Google Sheets.
-
-<img src="AI for Data Analysis.jpg" width="800" alt="AI for Data Analysis Certificate">
-
-[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/RNOJ2MIDKAMZ)
-
----
-### 10. AI for App Building
-**Authorized by:** Google | **Platform:** Coursera
-
-This certification focuses on identifying professional workflow opportunities where custom AI solutions can solve specific workplace challenges. It covered constructing functional web applications using vibe coding techniques to translate natural language into working code, evaluating technical issues during app development using AI to diagnose/debug code, and practicing with advanced AI tools like AI Studio to build sophisticated and scalable custom solutions.
-
-<img src="AI for App Building.jpg" width="800" alt="AI for App Building Certificate">
-
-[🔗 Verify Credential](https://coursera.org/verify/CZBGT0AEAAQI)
