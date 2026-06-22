@@ -47,3 +47,24 @@ This certification focuses on leveraging Artificial Intelligence to enhance crea
 <img src="AI for Brainstorming and Planning.jpg" width="800" alt="AI for Brainstorming and Planning Certificate">
 
 [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/records/OJ680IC8Y4B2)
+
+---
+### 5. AI for Research and Insights
+**Authorized by:** Google | **Platform:** Coursera
+
+This certification focuses on leveraging Artificial Intelligence to accelerate research workflows and extract deep data insights. It helped me develop skills in synthesizing multimodal data sources using Gemini, constructing structured research hubs, and generating comprehensive summaries to drive data-informed decisions.
+
+<img src="AI for Research and Insights.jpg" width="800" alt="AI for Research and Insights Certificate">
+
+[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/MB62F8ZO65PQ)
+
+---
+
+### 6. The Power of Statistics
+**Authorized by:** Google | **Platform:** Coursera
+
+This certification focuses on the foundational statistical principles underlying robust data analysis. It helped me strengthen my ability to explore and summarize complex datasets, apply probability distributions to model real-world data, and establish a mathematically sound basis for data-driven storytelling.
+
+<img src="The Power of Statistics.jpg" width="800" alt="The Power of Statistics Certificate">
+
+[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/5L0SN685816Q)
