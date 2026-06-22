@@ -68,3 +68,14 @@ This certification focuses on the foundational statistical principles underlying
 <img src="The Power of Statistics.jpg" width="800" alt="The Power of Statistics Certificate">
 
 [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/5L0SN685816Q)
+
+
+----
+### 7. AI for Writing and Communicating
+**Authorized by:** Google | **Platform:** Coursera
+
+This certification focuses on leveraging generative AI to enhance professional communication and content creation. It helped me strengthen my ability to synthesize complex meeting transcripts, refine high-stakes professional documents, and use AI-driven tools like Gemini to draft clear, impactful, and audience-targeted summaries.
+
+<img src="AI for Writing and Communicating.jpg" width="800" alt="The Power of Statistics Certificate">
+
+[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/8NHDPSETKY47)
