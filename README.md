@@ -88,4 +88,4 @@ This certification focuses on exploring how generative AI tools can enhance cont
 
 <img src="AI for Content Creation.jpg" width="800" alt="AI for Content Creation Certificate">
 
-[🔗 Verify Credential](https://www.coursera.org/verify/TDJRUYGZAJD)
+[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/TDJRUYGZAJD)
