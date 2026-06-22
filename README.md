@@ -89,3 +89,14 @@ This certification focuses on exploring how generative AI tools can enhance cont
 <img src="AI for Content Creation.jpg" width="800" alt="AI for Content Creation Certificate">
 
 [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/TDJRUYGZJAJD)
+
+---
+
+### 9. AI for Data Analysis
+**Authorized by:** Google | **Platform:** Coursera
+
+This certification focuses on using generative AI tools to streamline data workflows. It covered identifying key success metrics, cleaning unstructured data with effective prompting, generating spreadsheet formulas via natural language, and building clear data visualizations using Gemini in Google Sheets.
+
+<img src="AI for Data Analysis.jpg" width="800" alt="AI for Data Analysis Certificate">
+
+[🔗 Verify Credential](https://www.coursera.org/account/accomplishments/verify/RNOJ2MIDKAMZ)
